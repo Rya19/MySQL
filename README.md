@@ -1,3 +1,11 @@
+## Design Documentation
+
+Before implementing the SQL schema, I completed a design phase to plan the database structure. This included identifying entities, mapping relationships, assigning primary and foreign keys, and checking how the tables connect.
+
+<img width="499" height="628" alt="Screenshot 2026-05-31 at 12 54 35 PM" src="https://github.com/user-attachments/assets/40fc8af7-07df-4e20-85f3-3ab7cf83da44" />
+<img width="1106" height="623" alt="Screenshot 2026-05-31 at 12 54 07 PM" src="https://github.com/user-attachments/assets/d9a09f27-431a-43fe-a784-d7d8f32a4386" />
+
+
 # Library Database Management System
 
 This project is a MySQL database design for a library management system. It models the core structure needed to manage librarians, borrowers, books, physical book copies, and lending transactions.
